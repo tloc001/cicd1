@@ -1,0 +1,8 @@
+package demo;
+
+import static org.testng.Assert.*;
+
+public class demoTest {
+
+
+}
